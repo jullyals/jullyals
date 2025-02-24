@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about python, powerBI and others.
 - 💞️ I’m looking to collaborate on animal and environmental causes.
 - 📫 How to reach me on instagram @juals31
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a lot of cats.
 
 <!---
